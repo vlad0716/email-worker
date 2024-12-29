@@ -1,0 +1,7 @@
+# Email Worker Configuration Template
+# Copy this file and fill in your values
+
+name: "email-worker"
+description: "Email Worker"
+category: "email"
+
