@@ -1,0 +1,7 @@
+# Email Worker Configuration Template
+# Copy this file and fill in your values
+
+name: "Web Scraper"
+description: "This is a web scraper template. It will scrape the website and send the data to the email."
+category: "software"
+
