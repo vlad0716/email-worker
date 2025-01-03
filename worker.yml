@@ -4,4 +4,5 @@
 name: "Web Scraper"
 description: "This is a web scraper template. It will scrape the website and send the data to the email."
 category: "software"
+price: 0.50
 
